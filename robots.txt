@@ -1,3 +1,0 @@
-User-agent: *
-
-Sitemap: https://github.com/sgp-ganjil/togel-2/sitemap.xml
